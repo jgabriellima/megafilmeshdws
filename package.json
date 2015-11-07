@@ -27,7 +27,8 @@
     "nedb": "*",
     "request": "*",
     "simple-ssh": "*",
-    "ssh2": "*"
+    "ssh2": "*",
+    "js-base64": "*"
   },
   "scripts": {
     "debug": "node debug app.js",
